@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-/* Body styling */
 body {
     font-family: Arial, sans-serif;
     background-color: #1a1a1a;
@@ -12,10 +11,9 @@ body {
     overflow-x: hidden;
 }
 
-/* Home Section */
 .home-section {
     height: 100vh;
-    background-image: url('images/Strength\ Training.avif'); /* Replace with your image URL */
+    background-image: url('images/back_bg0.avif'); 
     background-size: cover;
     background-position: center;
     display: flex;
@@ -38,7 +36,6 @@ body {
     line-height: 1.5;
 }
 
-/* Diet Plans Section */
 .diet-plans {
     padding: 50px 20px;
     text-align: center;

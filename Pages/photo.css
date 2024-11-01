@@ -3,6 +3,9 @@
     overflow: hidden;
     height: 73vh;
 }
+.photo__welcom{
+    width: 100%;
+}
 .photo__welcom h3{
     text-align: center;
     font-size: 30px;
